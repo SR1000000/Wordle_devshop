@@ -9,7 +9,7 @@ This is a word guessing game made using Python.
 ## Links(Optional)
 
 ## Technologies used
-Python
+Python  
 Git Bash
 
 ## Credits
